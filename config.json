@@ -1,0 +1,9 @@
+{
+    "url": "http://127.0.0.1:5000/login",
+    "method": "POST",
+    "params": {
+        "username": "__FUZZ__",
+        "password": "test"
+    },
+    "seeds_file": "seeds/default.txt"
+}
