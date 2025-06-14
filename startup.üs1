@@ -1,0 +1,3 @@
+Start-Process powershell -ArgumentList "cd .\target_app; python app.py"
+Start-Sleep -Seconds 3
+python fuzzer.py
