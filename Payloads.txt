@@ -1,0 +1,18 @@
+' OR '1'='1
+<script>alert(1)</script>
+../../../../etc/passwd
+../
+<svg/onload=alert(1)>
+%u002e%u002e%u002f
+ls -la
+|| whoami
+%00%00%00
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+unauthorized
+notfound
+conflict
+unavailable
+select * from users
+DROP TABLE users;
+<iframe src="javascript:alert(1)">
+../../../../../windows/win.ini

@@ -1,6 +1,13 @@
-admin
-root
 test
-1' OR '1'='1
-<script>alert(1)</script>
-../../etc/passwd
+admin
+hello
+1
+abc123
+" OR "1"="1
+../
+%u002e
+SELECT
+<script>
+ls
+unauthorized
+conflict
